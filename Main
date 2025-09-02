@@ -1,0 +1,92 @@
+{
+  "Use of this file": "Purpose: To guide AI in creating content that accurately reflects [Your Business Name]'s brand, values, and target audience.",
+  "businessName": "[Your Business Name]",
+  "AICommJSONVersion": "1.0",
+  "ainame": "AICommJSON",
+  "shortName": ".aicommjson",
+  "description": "[Concise brand description/value proposition - 1-2 sentences. Example: 'A [Industry] company focused on [Key Value] for [Target Audience].']",
+  "context": {
+    "business_area": "[Industry/Business Area - e.g., SaaS Marketing, E-commerce Consulting, Healthcare Technology]",
+    "approach": "[Overall Business Approach - e.g., Holistic, Data-Driven, Customer-Centric, Innovative]",
+    "methodology": "[Description of typical methodologies - e.g., Agile, Lean, Structured Frameworks, Customized Solutions]"
+  },
+  "businessInformation": {
+    "location": "[Business Location - City, Country]",
+    "businessBase": "[Geographic Base of Operations - e.g., USA, UK, Global]",
+    "expertise": "[Summary of core expertise and specializations - 2-3 key areas]",
+    "keyStrengths": [
+      "[Strength 1]",
+      "[Strength 2]"
+    ],
+    "competitiveAdvantages": [
+      "[Advantage 1]",
+      "[Advantage 2]"
+    ],
+    "marketGaps": [
+      "[Gap 1]",
+      "[Gap 2]"
+    ]
+  },
+  "archetypes": [
+    {
+      "name": "[Archetype Name - e.g., The Hero]",
+      "description": "[Brief description of the archetype and how it relates to your brand]"
+    },
+    {
+      "name": "[Archetype Name - e.g., The Creator]",
+      "description": "[Brief description of the archetype and how it relates to your brand]"
+    }
+  ],
+  "targetAudience": {
+    "idealClientDescription": "[General description of your ideal client - industry, size, archetype, overall profile, etc.]",
+    "keyAttributes": [
+      {
+        "trait": "[Attribute 1 - e.g., Growth-Oriented]",
+        "description": "[Description of the attribute - e.g., 'Focused on achieving sustainable and scalable growth.']"
+      },
+      {
+        "trait": "[Attribute 2 - e.g., Values Innovation]",
+        "description": "[Description of the attribute - e.g., 'Appreciates and seeks out innovative solutions to stay competitive.']"
+      }
+    ],
+    "needs": [
+      {
+        "need": "[Need 1 - e.g., Increase Lead Generation]",
+        "description": "[Description of the need - e.g., 'Needs to generate a higher volume of qualified leads to fuel sales growth.']"
+      },
+      {
+        "need": "[Need 2 - e.g., Streamline Digital Processes]",
+        "description": "[Description of the need - e.g., 'Needs to automate and streamline digital marketing and business processes to improve efficiency and reduce manual work.']"
+      }
+    ],
+    "wants": [
+      {
+        "want": "[Want 1 - e.g., Become a Market Leader]",
+        "description": "[Description of the want - e.g., 'Wants to be recognized as a leader and innovator in their industry through digital excellence.']"
+      },
+      {
+        "want": "[Want 2 - e.g., Exceptional Client Experience]",
+        "description": "[Description of the want - e.g., 'Wants to provide an exceptional and seamless digital experience for their own clients, enhancing customer satisfaction and loyalty.']"
+      }
+    ],
+    "demographics": {
+      "companySize": ["[Typical Company Sizes - e.g., SMBs, Enterprises, Startups]"],
+      "industry": ["[Target Industries - e.g., Healthcare, SaaS, E-commerce]"],
+      "revenue": ["[Typical Revenue Ranges - e.g., $1M - $10M, $10M+]"],
+      "location": ["[Geographic Target Locations - e.g., USA, Europe, Global, Local]"]
+    }
+  },
+  "contentStyle": {
+    "websiteCopy": ["[Style for Website - e.g., Formal, Professional, Informative]"],
+    "socialMedia": ["[Style for Social Media - e.g., Informal, Engaging, Conversational]"],
+    "blogPosts": ["[Style for Blog Posts - e.g., Insightful, Educational, Thought-Provoking]"],
+    "salesMaterials": ["[Style for Sales Materials - e.g., Persuasive, Results-Oriented, Data-Driven]"]
+  },
+  "ctaPreferences": [
+    "[CTA 1 - e.g., Book a Consultation]",
+    "[CTA 2 - e.g., Download a Guide]",
+    "[CTA 3 - e.g., Contact Us]"
+  ],
+  "additionalNotes": "[Optional: Any other relevant notes or instructions for AI - brand voice nuances, specific keywords to emphasize, etc.]",
+  "copyright": "© 2023 - 2025 Digital Growth Architects. Licensed under the MIT License."
+}
