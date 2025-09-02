@@ -39,7 +39,7 @@ This repository contains the **public v1.0** version of AICommJSON. It is:
 ## 🛠️ Getting Started
 
 ### 1. Clone or Download the Template
-Get the file: [📄 `aicommjson.json`](./aicommjson.json)
+Get the file: https://github.com/AICommJSON/AICommJSON/blob/main/Main
 
 ### 2. Fill It Out (With Help from AI If Needed)
 Use ChatGPT or another model to help you complete the JSON. You’ll define:
